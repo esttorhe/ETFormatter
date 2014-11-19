@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/esttorhe/ETFormatter"
   s.license      = 'MIT'
   s.author       = { "Esteban Torres" => "me@estebantorr.es" }
+  s.social_media_url   = "http://twitter.com/esttorhe"
   s.source       = { :git => "https://github.com/esttorhe/ETFormatter.git", :tag => s.version.to_s }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
